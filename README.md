@@ -2,6 +2,9 @@
 
 # Supported Minecraft Version: 1.9
 # Client Version: 1.9.0-B10
+
+# Discord: https://discord.gg/5TEq87Z
+
 # Modules:
 
 Combat:
