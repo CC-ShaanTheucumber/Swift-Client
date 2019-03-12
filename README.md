@@ -1,6 +1,6 @@
 # Swift-Client - A free Windows 10 Hack Client for Minecraft Bedrock Edition.
 
-# Added:
+#Modules:
 
 Combat:
 - Rapid Hit
