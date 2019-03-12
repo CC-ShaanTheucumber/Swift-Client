@@ -19,6 +19,7 @@ Combat:
 - Reverse Blink (Packet Type Hack)
 - Gamemode 
 - Time Lock
+- Coordinates
 
 Movement:
 - Speed
