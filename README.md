@@ -5,14 +5,16 @@
 
 # Discord: https://discord.gg/5TEq87Z
 
+# Download: https://github.com/EchoHackCmd/Swift-Client/releases
+
 # Modules:
 
-Combat:
+# Combat:
 - Rapid Hit
 - Hitbox Width
 - Hitbox Height
 
-- Player:
+# Player:
 - Vanilla No Fall
 - Flight
 - Anti Cobweb
@@ -21,7 +23,7 @@ Combat:
 - Time Lock
 - Coordinates
 
-Movement:
+# Movement:
 - Speed
 - Faster Sprint Speed
 - Air Jump
@@ -32,7 +34,7 @@ Movement:
 - Anti Water
 - High Jump
 
-Visuals:
+# Visuals:
 - Crazy Water Bubbles
 - AntiHurtCam
 - Shake Hit
