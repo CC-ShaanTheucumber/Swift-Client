@@ -1,7 +1,7 @@
 # Swift Client - A free Windows 10 Hack Client for Minecraft Bedrock Edition.
 
 # Supported Minecraft Version: 1.10.1
-# Client Version: 1.10.1-B1
+# Client Version: 1.10.1-B2
 
 # Discord: https://discord.gg/5TEq87Z
 
@@ -23,6 +23,7 @@
 - Fast Up Ladder
 - Fast Down Ladder
 - High Jump
+- BunnyHop/Auto Jump
 
 # Player
 - Time Lock
@@ -30,6 +31,8 @@
 - Vanilla NoFall
 - Flight
 - Coordinates
+- Phase
+- Instabreak
 
 # Visuals
 - FOV
