@@ -1,20 +1,29 @@
-# Swift Client - A free Windows 10 Hack Client for Minecraft Bedrock Edition.
+## **Swift Client** - A Free Hack Client For **_Minecraft Windows 10 Edition._**
 
-# Supported Minecraft Version: 1.10.1
-# Client Version: 1.10.1-B6
+`(Bedrock Edition)`
 
-# Discord: https://discord.gg/5TEq87Z
 
-# Download: https://github.com/EchoHackCmd/Swift-Client/releases
+- **Client Info**
+  - Minecraft Version: `1.10.1`
+  - Client Version: `1.10.1-B6`
+  - Cheat Engine Version: `^6.8.3`
 
-# Modules:
 
-# Combat:
+- Join Now! [Discord Server](https://discord.gg/5TEq87Z)
+
+<details open>
+<summary>Modules</summary>
+
+### Modules
+
+Combat| 
+------| 
 - Rapid Hit
 - Hitbox Width
 - Hitbox Height
 
-# Movement
+Movement| 
+------| 
 - Speed
 - AirJump
 - Anti Water
@@ -27,7 +36,8 @@
 - Jesus
 - Spider
 
-# Player
+Player|
+------|
 - Time Lock
 - Gamemode
 - Vanilla NoFall
@@ -38,10 +48,26 @@
 - Scaffold
 - AntiKnockBack
 
-# Visuals
+Visuals|
+------|
 - FOV
 - Brightness
 - Extended F5 View
 - F5 Clip Cam
 - Third Person
-- Real Perspective 
+- Real Perspective
+
+
+</details>
+
+
+<details open>
+<summary>Downloads</summary>
+
+- Worker (Cheat Engine): [Download](https://cheatengine.org)
+- Swift Client (Cheat Table): [Download](https://github.com/EchoHackCmd/Swift-Client/releases)
+
+
+</details>
+<br>
+<br>
