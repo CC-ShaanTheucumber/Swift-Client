@@ -5,7 +5,7 @@
 
 - **Client Info**
   - Minecraft Version: `1.10.1`
-  - Client Version: `1.10.1-B6`
+  - Client Version: `1.10.1-B7`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -56,6 +56,14 @@ Visuals|
 - F5 Clip Cam
 - Third Person
 - Real Perspective
+
+Bypasses|
+------|
+Cubecraft|
+------|
+- Flight Bypass
+- Flight Bypass 2
+- Speed Bypass
 
 
 </details>
