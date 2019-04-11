@@ -59,8 +59,8 @@ Visuals|
 
 Bypasses|
 ------|
-Cubecraft|
-------|
+Cubecraft:
+
 - Flight Bypass
 - Flight Bypass 2
 - Speed Bypass
