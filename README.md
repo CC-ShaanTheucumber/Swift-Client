@@ -19,6 +19,7 @@
 Combat| 
 ------| 
 - Rapid Hit
+- Creative Reach
 - Hitbox Width
 - Hitbox Height
 
