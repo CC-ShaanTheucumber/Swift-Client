@@ -5,7 +5,7 @@
 
 - **Client Info**
   - Minecraft Version: `1.10.1`
-  - Client Version: `1.10.1-B7`
+  - Client Version: `1.10.1-B8`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -35,6 +35,7 @@ Movement|
 - BunnyHop/Auto Jump
 - Jesus
 - Spider
+- Auto Sprint
 
 Player|
 ------|
@@ -57,13 +58,11 @@ Visuals|
 - Third Person
 - Real Perspective
 
-Bypasses|
+Exploits|
 ------|
-Cubecraft:
-
-- Flight Bypass
-- Flight Bypass 2
-- Speed Bypass
+- Cubecraft Speed Bypass
+- Cubecraft Speed Bypass 2
+- Cubecraft Speed Bypass 3
 
 
 </details>
