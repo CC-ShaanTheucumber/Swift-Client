@@ -5,7 +5,7 @@
 
 - **Client Info**
   - Minecraft Version: `1.10.1`
-  - Client Version: `1.10.1-B8`
+  - Client Version: `1.10.1-B9`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -65,6 +65,7 @@ Exploits|
 - Cubecraft Speed Bypass
 - Cubecraft Speed Bypass 2
 - Cubecraft Speed Bypass 3
+- Cubecraft Speed Bypass 4
 
 
 </details>
