@@ -27,6 +27,7 @@ Movement|
 ------| 
 - Speed
 - AirJump
+- AirJump 2
 - Anti Water
 - Anti Web
 - NoDownGlide
