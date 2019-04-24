@@ -4,8 +4,8 @@
 
 
 - **Client Info**
-  - Minecraft Version: `1.10.1`
-  - Client Version: `1.10.1-B9`
+  - Minecraft Version: `1.11.0`
+  - Client Version: `1.11.0-B1`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -19,7 +19,6 @@
 Combat| 
 ------| 
 - Rapid Hit
-- Creative Reach
 - Hitbox Width
 - Hitbox Height
 
@@ -36,7 +35,6 @@ Movement|
 - High Jump
 - BunnyHop/Auto Jump
 - Jesus
-- Spider
 - Auto Sprint
 
 Player|
@@ -46,9 +44,7 @@ Player|
 - Vanilla NoFall
 - Flight
 - Coordinates
-- Phase
 - Instabreak
-- Scaffold
 - AntiKnockBack
 
 Visuals|
@@ -62,10 +58,7 @@ Visuals|
 
 Exploits|
 ------|
-- Cubecraft Speed Bypass
-- Cubecraft Speed Bypass 2
-- Cubecraft Speed Bypass 3
-- Cubecraft Speed Bypass 4
+
 
 
 </details>
