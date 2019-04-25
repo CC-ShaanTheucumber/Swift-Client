@@ -5,7 +5,7 @@
 
 - **Client Info**
   - Minecraft Version: `1.11.0`
-  - Client Version: `1.11.0-B1`
+  - Client Version: `1.11.0-B2`
   - Cheat Engine Version: `^6.8.3`
 
 
