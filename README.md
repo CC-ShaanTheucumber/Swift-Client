@@ -4,8 +4,8 @@
 
 
 - **Client Info**
-  - Minecraft Version: `1.11.0`
-  - Client Version: `1.11.0-B2`
+  - Minecraft Version: `1.11.1`
+  - Client Version: `1.11.1-B1`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -19,6 +19,7 @@
 Combat| 
 ------| 
 - Rapid Hit
+- Creative Reach
 - Hitbox Width
 - Hitbox Height
 
@@ -33,8 +34,9 @@ Movement|
 - Fast Up Ladder
 - Fast Down Ladder
 - High Jump
-- BunnyHop/Auto Jump
+- BHOP
 - Jesus
+- Spider
 - Auto Sprint
 
 Player|
@@ -43,6 +45,7 @@ Player|
 - Gamemode
 - Vanilla NoFall
 - Flight
+- Phase
 - Coordinates
 - Instabreak
 - AntiKnockBack
@@ -51,9 +54,8 @@ Visuals|
 ------|
 - FOV
 - Brightness
-- Extended F5 View
+- Extended F5
 - F5 Clip Cam
-- Third Person
 - Real Perspective
 
 Exploits|
