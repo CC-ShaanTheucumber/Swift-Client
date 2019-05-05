@@ -5,7 +5,7 @@
 
 - **Client Info**
   - Minecraft Version: `1.11.1`
-  - Client Version: `1.11.1-B1`
+  - Client Version: `1.11.1-B2`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -60,7 +60,7 @@ Visuals|
 
 Exploits|
 ------|
-
+- Lifeboat Speed Bypass
 
 
 </details>
