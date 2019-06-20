@@ -4,8 +4,8 @@
 
 
 - **Client Info**
-  - Minecraft Version: `1.11.1`
-  - Client Version: `1.11.1-B2`
+  - Minecraft Version: `1.11.4`
+  - Client Version: `1.11.4`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -17,51 +17,34 @@
 ### Modules
 
 Combat| 
-------| 
+------|
 - Rapid Hit
-- Creative Reach
 - Hitbox Width
 - Hitbox Height
 
-Movement| 
-------| 
+Movement|
+--------|
+- Air Jump
+- Air Jump 2
 - Speed
-- AirJump
-- AirJump 2
-- Anti Water
-- Anti Web
 - NoDownGlide
 - Fast Up Ladder
 - Fast Down Ladder
+- Step Assist
 - High Jump
-- BHOP
-- Jesus
-- Spider
-- Auto Sprint
+- Air Acceleration Speed
+- Phase
+- NoSlowDown
+- Auto Sprint 
+- AntiWeb
 
 Player|
 ------|
-- Time Lock
-- Gamemode
-- Vanilla NoFall
-- Flight
-- Phase
-- Coordinates
-- Instabreak
 - AntiKnockBack
-
-Visuals|
-------|
-- FOV
-- Brightness
-- Extended F5
-- F5 Clip Cam
-- Real Perspective
-
-Exploits|
-------|
-- Lifeboat Speed Bypass
-
+- Scaffold
+- Coordinates
+- Gamemode
+- Flight 
 
 </details>
 
