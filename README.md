@@ -37,6 +37,10 @@ Movement|
 - NoSlowDown
 - Auto Sprint 
 - AntiWeb
+- AntiWater
+- Jesus
+- Spider
+- BHOP
 
 Player|
 ------|
@@ -45,6 +49,14 @@ Player|
 - Coordinates
 - Gamemode
 - Flight 
+- Insta Eat
+
+Other|
+-----|
+- No Swing
+- F5 Clip Cam
+- Extended F5
+- Packet NoFall
 
 </details>
 
