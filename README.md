@@ -5,7 +5,7 @@
 
 - **Client Info**
   - Minecraft Version: `1.11.4`
-  - Client Version: `1.11.4`
+  - Client Version: `1.11.4-B3`
   - Cheat Engine Version: `^6.8.3`
 
 
@@ -57,6 +57,7 @@ Other|
 - F5 Clip Cam
 - Extended F5
 - Packet NoFall
+- Insta Break
 
 </details>
 
