@@ -41,6 +41,8 @@ Movement|
 - Jesus
 - Spider
 - BHOP
+- Crouch NoSlowDown
+- Velocity Speed
 
 Player|
 ------|
