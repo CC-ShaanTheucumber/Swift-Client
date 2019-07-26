@@ -4,12 +4,13 @@
 
 
 - **Client Info**
-  - Minecraft Version: `1.11.4`
-  - Client Version: `1.11.4-B3`
+  - Minecraft Version: `1.12.0`
+  - Client Version: `1.12.0-B2`
   - Cheat Engine Version: `^6.8.3`
 
 
 - Join Now! [Discord Server](https://discord.gg/5TEq87Z)
+- Download [Click Here](https://github.com/EchoHackCmd/Swift-Client/releases/download/1.12.0/Swift-1.12.0B2.CT)
 
 <details open>
 <summary>Modules</summary>
@@ -41,7 +42,6 @@ Movement|
 - Jesus
 - Spider
 - BHOP
-- Crouch NoSlowDown
 - Velocity Speed
 
 Player|
@@ -50,16 +50,14 @@ Player|
 - Scaffold
 - Coordinates
 - Gamemode
-- Flight 
-- Insta Eat
+- Vanilla NoFall
+- Packet NoFall
 
 Other|
 -----|
-- No Swing
-- F5 Clip Cam
-- Extended F5
-- Packet NoFall
-- Insta Break
+- No Packet 
+- Freecam
+- Clip Cam
 
 </details>
 
